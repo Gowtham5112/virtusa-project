@@ -1,0 +1,10 @@
+com\example\demo\repository\CompanyRepository.class
+com\example\demo\controllers\HomeController.class
+com\example\demo\models\CompanyModel.class
+com\example\demo\models\MySharesModel.class
+com\example\demo\repository\WatchListRepository.class
+com\example\demo\models\WatchListModel.class
+com\example\demo\LoginApplication.class
+com\example\demo\repository\MySharesRepository.class
+com\example\demo\models\UserModel.class
+com\example\demo\repository\UserRepository.class
